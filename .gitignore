@@ -11,3 +11,8 @@ corpus/
 
 # macOS
 .DS_Store
+
+# El corpus de los laboratorios (copia de MASSIVE es-ES). SE VERSIONA A
+# PROPOSITO: los notebooks lo leen de aca para no depender del Hub en clase.
+# Ojo: la regla data/ de arriba NO lo alcanza, y no hay que agregar datos/.
+!datos/
