@@ -5,6 +5,15 @@
 # Datasets y corpus descargados al resolver los labs
 data/
 corpus/
+*.parquet
+
+# Vectores preentrenados: el lab de embeddings los baja del release
+# `vectores-v1` de este mismo repo. El archivo pesa 81 MB y vive en el
+# release, no en el arbol.
+*.npz
+
+# Modulos que los notebooks bajan del release `utils-v1` al ejecutarse.
+lab1a_pipeline.py
 
 # Jupyter
 .ipynb_checkpoints/
