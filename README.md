@@ -1,6 +1,6 @@
 # Laboratorios — Modelos de Lenguaje
 
-Notebooks de los trabajos prácticos de la materia **Modelos de Lenguaje**
+Notebooks de los laboratorios de la materia **Modelos de Lenguaje**
 (Ingeniería en Sistemas de Información, UTN FRM).
 
 ## Links de acceso
