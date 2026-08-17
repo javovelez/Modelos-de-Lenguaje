@@ -1,7 +1,7 @@
-# Laboratorios — Procesamiento del Lenguaje Natural
+# Laboratorios — Modelos de Lenguaje
 
-Notebooks de los trabajos prácticos de la materia **Procesamiento del
-Lenguaje Natural** (Ingeniería en Sistemas de Información, UTN FRM).
+Notebooks de los trabajos prácticos de la materia **Modelos de Lenguaje**
+(Ingeniería en Sistemas de Información, UTN FRM).
 
 ## Links de acceso
 
