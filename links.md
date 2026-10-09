@@ -8,6 +8,7 @@
 | Laboratorio 1 — Parte C: Representaciones distribuidas | [Abrir en Colab](https://colab.research.google.com/github/javovelez/Modelos-de-Lenguaje/blob/main/Laboratorio_1c.ipynb) |
 | Laboratorio 2 — Parte A: Las dos direcciones de una LSTM | [Abrir en Colab](https://colab.research.google.com/github/javovelez/Modelos-de-Lenguaje/blob/main/Laboratorio_2a.ipynb) |
 | Laboratorio 2 — Parte B: Una sola tabla de palabras | [Abrir en Colab](https://colab.research.google.com/github/javovelez/Modelos-de-Lenguaje/blob/main/Laboratorio_2b.ipynb) |
+| Laboratorio 3 — Parte A: Reconocimiento de entidades con BERT | [Abrir en Colab](https://colab.research.google.com/github/javovelez/Modelos-de-Lenguaje/blob/main/Laboratorio_3a.ipynb) |
 
 <!--
 Cada laboratorio nuevo necesita su fila, con el patrón:
